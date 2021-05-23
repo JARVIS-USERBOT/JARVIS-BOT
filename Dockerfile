@@ -1,3 +1,4 @@
+FROM sandy1709/catuserbot:alpine
 
 #clonning repo 
 RUN git clone https://github.com/LEGEND-OS/LEGENDUSERBOT.git /root/userbot
