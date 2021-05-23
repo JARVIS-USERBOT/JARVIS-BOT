@@ -7,7 +7,6 @@ This Is Userbot Of Legend_Mr_Hacker
 
 This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
 
-[![LEGENDBOT logo](https://telegra.ph/file/7a288583a47e08a6098b3.jpg)](https://t.me/LEGEND_Userbot)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
 
