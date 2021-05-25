@@ -1,7 +1,7 @@
 {
   "name": "LEGENDBOT",
-  "description": "The best userbot made by Legend_Mr_Hacker. Made with Love... ❤ For Support Join @LEGEND_Userbot ",
-  "logo": "https://telegra.ph/file/cee753391111580ae8a0c.jpg",
+  "description": "The best userbot made by Legend_Mr_Hacker. Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://telegra.ph/file/cee497cc4ad6c9dfc04c6.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -28,28 +28,28 @@
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .LEGEND Command.",
+      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
       "value": "Legend's LEGENDBOT Is Alive",
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .LEGEND command.",
-      "value": "https://telegra.ph/file/cee753391111580ae8a0c.jpg",
+      "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
+      "value": "https://telegra.ph/file/6749af524b4658e5c2b23.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "I am a legend. Bcoz i am LEGEND User",
+      "value": "I am a legend. Bcoz i am User Of LEGEND",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/cee753391111580ae8a0c.jpg",
+      "value": "https://telegra.ph/file/73800882b4e1723c2abd1.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "PLEASE DO NOT SPAM IN MY DM, OTHERWISE YOU WILL BLOCKED. I WILL REPLY YOU AFTER COME BACK ONLINE!",
+      "value": " HELLO SIR/MISS,PLEASE DO NOT SPAM IN MY MASTER, OTHERWISE YOU WILL BLOCKED. I WILL REPLY YOU AFTER COME BACK ONLINE,THANKYOU!",
       "required": false
     },
     "PM_PERMIT_GROUP_ID": {
@@ -83,7 +83,7 @@
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
-      "value": ",",
+      "value": ".",
       "required": false
     },
     "API_HASH": {
@@ -91,23 +91,23 @@
       "value": ""
     },
     "PLUGIN_CHANNEL": {
-      "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "description": "Create A Channel and type .get_id To Get Plugin Channel ID copy and paste here",
       "value": ""
     },
     "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "create a private channel and then type .get_id add that value here for save messages",
+      "description": "create a private group and  add @Missrose_bot then type /id add that value here for save messages",
       "value": ""
     },
     "PRIVATE_GROUP_ID": {
-      "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "description": "Create a private group add @Missrose_bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
       "value": ""
     },
     "PM_LOGGR_BOT_API_ID": {
-       "description": "for login private messages create a private channel and do .get_id and add that id", 
+       "description": "for login private messages create a private group and do /id and add that id", 
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/@LEGENDOP/LEGENDBOT#main.py ",
+      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -193,3 +193,4 @@
     "url": "heroku/python"
   }]
 }
+ 
