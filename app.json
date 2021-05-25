@@ -103,7 +103,7 @@
       "value": ""
     },
     "PM_LOGGR_BOT_API_ID": {
-       "description": "for login private messages create a private group and do /id and add that id", 
+       "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
        "value": ""
     }, 
     "STRING_SESSION": {
