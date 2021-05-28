@@ -3,7 +3,7 @@
 <h1 align="center">⚡ LEGEND ⚡</h1>
 
 
-[![LEGENDMUSIC logo](https://telegra.ph/file/cee497cc4ad6c9dfc04c6.jpg)](https://t.me/Legend_Mr_Hacker)
+[![LEGENDMUSIC logo](https://telegra.ph/file/7b2fefb2c78c90734444d.jpg)](https://t.me/Legend_Mr_Hacker)
 
 
 <h2>THIS IS IS A USERBOT OF TELEGRAM. MADE BY @Legend_Mr_Hacker By Hardwrok.
