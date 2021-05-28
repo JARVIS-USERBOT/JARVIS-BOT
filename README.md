@@ -56,15 +56,16 @@ This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Do
 
 
 ###To Get Details Of StringSession Follow Step:
-1.Go To Telegram And Search @UseTGXBot 
-2.Click Start
-3.Send Ur Phone Number To @UseTGXBot
-4.U Received Code From Telegram Like This=VGFK0rHbzaF
-5.Copy Ur Code
-6.Paste Ur Code in @UseTGXBot
-7.U Received APP ID
-8.Now Run StringSession Given Below:
 
+    - Go To Telegram And Search @UseTGXBot
+    - Click Start
+    - Send Ur Phone Number To @UseTGXBot
+    - U Received Code From Telegram Like This=VGFK0rHbzaF
+    - Copy Ur Code
+    - Paste Ur Code in @UseTGXBot
+    - U Received APP ID
+    - Now Run StringSession Given Below:
+   
 
 ###StringSession
 
