@@ -70,6 +70,7 @@ This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Do
 ###StringSession
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+
     - Click On Generate String
     - Then Click On Green Run Button.
     - Wait for a while then fill the details.
