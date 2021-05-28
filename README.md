@@ -1,4 +1,4 @@
-### LEGENDBOT 
+ LEGENDBOT 
 
 <h2 align="center">This Is Userbot Of Legend_Mr_Hacker</h2>
 
@@ -69,7 +69,7 @@ This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Do
 
 
 <h3> StringSession </h3>
-[![GenerateStringSession](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
