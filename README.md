@@ -66,10 +66,8 @@ This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Do
 8.Now Run StringSession Given Below:
 
 
+###StringSession
 
-
-<h3> StringSession </h3>
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
     - Click On Generate String
     - Then Click On Green Run Button.
