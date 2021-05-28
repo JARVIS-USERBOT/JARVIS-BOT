@@ -84,8 +84,7 @@ This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Do
 
 #Do U Face Any Problem Contact me Through Telegram Or
 
-#Whatsapp 
-[![Whatsapp](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](+12565003534)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp%20Me-informational)](+12565003534)
 
 
 <a href="https://t.me/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/OWNER%20ME-red.svg?style=for-the-badge&logo=Telegram"></a>
