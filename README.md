@@ -1,12 +1,14 @@
 ### LEGENDBOT 
+
 <h2 align="center">This Is Userbot Of Legend_Mr_Hacker</h2>
+
 <h1 align="center">⚡ LEGEND ⚡</h1>
 
 
-[![LEGENDMUSIC logo](https://telegra.ph/file/7b2fefb2c78c90734444d.jpg)](https://t.me/Legend_Mr_Hacker)
+[![LEGENDBOT](https://telegra.ph/file/7b2fefb2c78c90734444d.jpg)](https://github.com/LEGEND-OS/LEGENDMUSIC)
 
 
-<h2>THIS IS IS A USERBOT OF TELEGRAM. MADE BY @Legend_Mr_Hacker By Hardwrok.
+<h2>THIS IS IS A USERBOT OF TELEGRAM. MADE BY @Legend_Mr_Hacker By Hardwork.
 
 This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
 
@@ -48,14 +50,26 @@ This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Do
 
 
 <h3> DEPLOY TO HEROKU </h3>
-
+###DEPLOY
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT&template=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
 
+
+###To Get Details Of StringSession Follow Step:
+1.Go To Telegram And Search @UseTGXBot 
+2.Click Start
+3.Send Ur Phone Number To @UseTGXBot
+4.U Received Code From Telegram Like This=VGFK0rHbzaF
+5.Copy Ur Code
+6.Paste Ur Code in @UseTGXBot
+7.U Received APP ID
+8.Now Run StringSession Given Below:
+
+
+
+
 <h3> StringSession </h3>
-
-
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@LEGENDOP/LEGENDBOT#main.py) 
+[![GenerateStringSession](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -67,35 +81,14 @@ This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Do
 
 <h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ LEGEND  ⚡</a></h2>
 
-## Mandatory Vars
 
-- Only two of the environment variables are mandatory.
+#Do U Face Any Problem Contact me Through Telegram Or
 
-- This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
-
-    - `APP_ID`:   You can get this value from https://my.telegram.org
-
-    - `API_HASH`:   You can get this value from https://my.telegram.org
-
-- The userbot will not work without setting the mandatory vars.
-
-
-### Official Supports ✅ 
-
-
-```
-Get help regarding setting up 
-
-your LEGENDBOT in our official 
-
-support Group and get updates
-
-notifications in Update Channel.
-```
+#Whatsapp +12565003534
 
 <a href="https://t.me/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/OWNER%20ME-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/LEGENDSupport"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Legend_Mr_Hacker)
@@ -107,7 +100,7 @@ notifications in Update Channel.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 LEGEND-OS
+LEGEND-OS
 
 Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
 
