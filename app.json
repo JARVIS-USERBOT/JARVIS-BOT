@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "LEGEND User",
+      "value": "LEGEND",
       "required": false
     },
     "ALIVE_MSG": {
@@ -49,7 +49,7 @@
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
-      "value": " HELLO SIR/MISS,PLEASE DO NOT SPAM IN MY MASTER, OTHERWISE YOU WILL BLOCKED. I WILL REPLY YOU AFTER COME BACK ONLINE,THANKYOU!",
+      "value": "HELLO SIR/MISS,PLEASE DO NOT SPAM IN MY MASTER, OTHERWISE YOU WILL BLOCKED. I WILL REPLY YOU AFTER COME BACK ONLINE,THANKYOU!",
       "required": false
     },
     "PM_PERMIT_GROUP_ID": {
