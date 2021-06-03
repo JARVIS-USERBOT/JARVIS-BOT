@@ -55,7 +55,7 @@ This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Do
 </a>
 
 
-###To Get Details Of StringSession Follow Step:
+### To Get Details Of StringSession Follow Step:
 
     - Go To Telegram And Search @UseTGXBot
     - Click Start
@@ -67,7 +67,7 @@ This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Do
     - Now Run StringSession Given Below:
    
 
-###StringSession
+### StringSession
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
@@ -82,7 +82,7 @@ This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Do
 <h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ LEGEND  ⚡</a></h2>
 
 
-#Do U Face Any Problem Contact me Through Telegram Or
+# Do U Face Any Problem Contact me Through Telegram Or Whatsapp
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp%20Me-informational)](+12565003534)
 
