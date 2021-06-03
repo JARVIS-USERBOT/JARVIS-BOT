@@ -1,5 +1,3 @@
- LEGENDBOT 
-
 <h2 align="center">This Is Userbot Of Legend_Mr_Hacker</h2>
 
 <h1 align="center">⚡ LEGEND ⚡</h1>
@@ -10,7 +8,7 @@
 
 <h2>THIS IS IS A USERBOT OF TELEGRAM. MADE BY @Legend_Mr_Hacker By Hardwork.
 
-This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
+### This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
 
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
@@ -127,6 +125,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 <details>
 
-  <summary> • ## 💡 CREDITS 💞 • </summary>
+  <summary> • 💡 CREDITS 💞 • </summary>
   
-• [OSS](https://github.com/LEGEND-OS)
+• [LEGEND](https://github.com/LEGEND-OS)
