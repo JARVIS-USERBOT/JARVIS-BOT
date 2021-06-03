@@ -77,7 +77,7 @@
 
 <h1 align="center">TO HOST LEGEND LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ LEGEND  ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ LEGEND ⚡</a></h2>
 
 
 # Do U Face Any Problem Contact me Through Telegram Or Whatsapp
