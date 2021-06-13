@@ -85,7 +85,7 @@
 [![Whatsapp](https://img.shields.io/badge/Whatsapp%20Me-informational)](+12565003534)
 
 
-<a href="https://t.me/joinchat/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/OWNER%20ME-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/joinchat/RAVAN102030"><img src="https://img.shields.io/badge/OWNER%20ME-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://t.me/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
