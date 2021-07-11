@@ -1,14 +1,18 @@
-<h2 align="center">This Is Userbot Of Legend_Mr_Hacker</h2>
+<h1 align="center">
+<b> LEGEND 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 {🇮🇳}</b>
+</h1>
 
-<h1 align="center">⚡ LEGEND ⚡</h1>
-
-
-[![LEGENDBOT](https://telegra.ph/file/7b2fefb2c78c90734444d.jpg)](https://github.com/LEGEND-OS/LEGENDMUSIC)
+[![LEGENDBOT](https://telegra.ph/file/fb2860bd9972e2e0be1cc.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
 
 <h2>THIS IS IS A USERBOT OF TELEGRAM. MADE BY @Legend_Mr_Hacker By Hardwork.
 
 ### This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
+
+
+## Status Of Bot 
+
+<p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></
 
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
