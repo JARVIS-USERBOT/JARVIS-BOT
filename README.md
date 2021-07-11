@@ -16,9 +16,9 @@
     <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
 
 
-####The owner would not be responsible for any kind of bans due to the bot.
+<h2>The owner would not be responsible for any kind of bans due to the bot.
 
-####FORK AT YOUR OWN RISK
+FORK AT YOUR OWN RISK</h2>
 
 
 <p align="center">
