@@ -1,7 +1,7 @@
 {
   "name": "LEGENDBOT",
   "description": "The best userbot made by Legend_Mr_Hacker. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/cee497cc4ad6c9dfc04c6.jpg",
+  "logo": "https://telegra.ph/file/9144a914bce520f5bdf74.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -83,7 +83,7 @@
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
-      "value": ".",
+      "value": ",",
       "required": false
     },
     "API_HASH": {
@@ -135,7 +135,7 @@
       "required": false
     },
     "TG_BOT_USER_NAME_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
+      "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot.without '@'",
       "value": ""
     },
     "OPEN_WEATHER_MAP_APPID": {
@@ -143,18 +143,18 @@
       "required": false
     },
     "NO_OF_BUTTONS_DISPLAYED_IN_H_ME_CMD": {
-      "description": " Set The Amount Of Buttons Displayed In Help Command default 8",
+      "description": " Set The Amount Of Buttons Displayed In legend Command default 8",
       "value": "8",
       "required": true
     },
     "NO_OF_COLUMS_DISPLAYED_IN_H_ME_CMD": {
-      "description": "Set The Amount Of Rows You Want To Displayed In Help Command default 2",
+      "description": "Set The Amount Of Rows You Want To Displayed In legend Command default 2",
       "value": "2",
       "required": true
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "❦",
+      "value": "🔱",
       "required": false
     }, 
     "TZ": {
