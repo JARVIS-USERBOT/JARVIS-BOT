@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "LEGEND",
+      "value": "ℓεɠεɳ∂ɓσƭ",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Legend's LEGENDBOT Is Alive",
+      "value": "ℓεɠεɳ∂ɓσƭ Is Alive",
       "required": false
     },
     "ALIVE_PIC": {
@@ -39,7 +39,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "I am a legend. Bcoz i am User Of LEGEND",
+      "value": "I am a ℓεɠεɳ∂. Bcoz i am User Of ℓεɠεɳ∂ɓσƭ",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -49,7 +49,10 @@
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "HELLO SIR/MISS,PLEASE DO NOT SPAM IN MY MASTER, OTHERWISE YOU WILL BLOCKED. I WILL REPLY YOU AFTER COME BACK ONLINE,THANKYOU!",
+      "value": "нєℓℓο ѕιя / мιѕѕ,
+ρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мєѕѕαgє οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ ℓєgєи∂ϐοτ. 
+ι ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,
+τнαиκγου!",
       "required": false
     },
     "PM_PERMIT_GROUP_ID": {
@@ -91,11 +94,11 @@
       "value": ""
     },
     "PLUGIN_CHANNEL": {
-      "description": "Create A Channel and type .get_id To Get Plugin Channel ID copy and paste here",
+      "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
       "value": ""
     },
     "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "create a private group and  add @Missrose_bot then type /id add that value here for save messages",
+      "description": "Create a private group and  add @Missrose_bot then type /id add that value here for save messages",
       "value": ""
     },
     "PRIVATE_GROUP_ID": {
@@ -117,7 +120,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "enteryourappname",
+      "value": "",
       "required": true
     },
     "TG_BOT_TOKEN_BF_HER": {
