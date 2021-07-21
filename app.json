@@ -88,7 +88,7 @@
     },
     "HANDLER": {
       "description": "U can Change Ur command Handler By Default it is (.)",
-      "value":"."
+      "value": "."
       "required": false
       },
     "API_HASH": {
