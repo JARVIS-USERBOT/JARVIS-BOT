@@ -86,6 +86,11 @@
       "value": ",",
       "required": false
     },
+    "HANDLER": {
+      "descriotion": "U can Change Ur command Handler By Default it is (.)",
+      "value":"."
+      "required": false
+      },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
       "value": ""
