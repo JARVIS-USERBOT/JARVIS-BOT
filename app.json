@@ -86,7 +86,7 @@
       "value": ",",
       "required": false
     },
-    "HANDLER": {
+    "COMMAND_HAND_LER": {
       "description": "U can Change Ur command Handler By Default it is (.)",
       "value": ".",
       "required": false
