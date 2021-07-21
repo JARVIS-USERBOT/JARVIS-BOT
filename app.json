@@ -87,7 +87,7 @@
       "required": false
     },
     "HANDLER": {
-      "descriotion": "U can Change Ur command Handler By Default it is (.)",
+      "description": "U can Change Ur command Handler By Default it is (.)",
       "value":"."
       "required": false
       },
