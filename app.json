@@ -1,6 +1,6 @@
 {
   "name": "ℓεɠεɳ∂ɓσƭ",
-  "description": "The best userbot made by Legend_Mr_Hacker. Made with Love And By Python Language With Hardwork... ❤ ",
+  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ ℓєgєи∂. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/9144a914bce520f5bdf74.jpg",
     "keywords": [
     "telegram",
@@ -29,7 +29,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "ℓεɠεɳ∂ɓσƭ Is Alive",
+      "value": "ℓεɠεɳ∂ɓσƭ ιѕ αℓινє",
       "required": false
     },
     "ALIVE_PIC": {
@@ -39,7 +39,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "I am a ℓεɠεɳ∂. Bcoz i am User Of ℓεɠεɳ∂ɓσƭ",
+      "value": "ι αм ℓεɠεɳ∂.ϐϲοz ι αм υѕєя οƒ ℓεɠεɳ∂ɓσƭ",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -159,7 +159,7 @@
     },
     "EMOJI_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚜️ ",
+      "value": "⚜️",
       "required": false
     }, 
     "TZ": {
