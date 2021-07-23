@@ -52,6 +52,11 @@
       "value": "нєℓℓο ѕιя / мιѕѕ, ρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ ℓєgєи∂ϐοτ.ι ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,τнαиκγου!",
       "required": false
     },
+    "MAX_FLOOD_IN_P_M_s": {
+      "description": "Now U Can Set Custom Flood In DM / PM by default it is 5",
+      "value": "5",
+      "required": true
+    },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
       "value": "",
