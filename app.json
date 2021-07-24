@@ -32,6 +32,10 @@
       "value": "ℓεɠεɳ∂ɓσƭ ιѕ αℓινє",
       "required": false
     },
+    "AWAKE_PIC": {
+      "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
+      "value": "https://telegra.ph/file/6749af524b4658e5c2b23.jpg",
+      "required": false
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
       "value": "https://telegra.ph/file/6749af524b4658e5c2b23.jpg",
