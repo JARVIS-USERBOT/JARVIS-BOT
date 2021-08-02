@@ -27,7 +27,7 @@
 </p>
 
 
-<h2>THIS IS IS A USERBOT OF TELEGRAM. MADE BY @Legend_Mr_Hacker By Hardwork.
+<h2>τнιѕ ιѕ υѕєяϐοτ ƒοя τєℓєgяαм.τнιѕ ϐοτ ιѕ ѕмοοτн αи∂ ƒαѕτєѕτ ϐοτ.
 
 ------------
 ## Status Of Bot 
