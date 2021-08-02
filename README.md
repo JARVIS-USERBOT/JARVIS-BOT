@@ -4,8 +4,8 @@
 
 [![LEGENDBOT](https://telegra.ph/file/fb2860bd9972e2e0be1cc.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
-##  ⚡ ʟɛɢɛռɖaʀʏ ᴀғ ℓεɠεɳ∂ɮօt ⚡
-## α ѕмοοτн αи∂ ƒαѕτєѕτ υѕєяϐοτ ϐαѕє∂ οи τєℓєτнοи ℓιϐяαяγ
+##⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ 𝕷êgëñd𝕭øt⚡
+## 𝕬 𝕾мοοτн αи∂ 𝕱αѕτєѕτ 𝖚ßєяϐοτ 𝕭αѕє∂ οи 𝕿𝖊ℓєτнοи 𝕷ιϐяαяγ.
 
 <p align="center">
 <a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
