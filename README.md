@@ -30,27 +30,16 @@
 
 <h2>THIS IS IS A USERBOT OF TELEGRAM. MADE BY @Legend_Mr_Hacker By Hardwork.
 
-### This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
-
-
+------------
 ## Status Of Bot 
 
 <p align="left">
     <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
 
 
-<h2>The owner would not be responsible for any kind of bans due to the bot.
 
-FORK AT YOUR OWN RISK</h2>
-
-
-
-
-<h2 align="center">⚙️ D E P L O Y I N G ⚙️</h2>
-
-
+------------
 <h3> DEPLOY TO HEROKU </h3>
-
 
 [![Deploy](https://telegra.ph/file/533e92bd3d2e94e959c36.jpg)](https://heroku.com/deploy?template=https://github.com/LEGEND-OS/LEGENDBOT)
 
