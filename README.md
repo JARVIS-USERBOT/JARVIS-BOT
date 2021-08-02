@@ -71,15 +71,12 @@
 
 <h1 align="center">TO HOST LEGEND LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ LEGEND ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ 𝕷êgèñd𝕭øt ⚡</a></h2>
 
+------------
+# Do U Face Any Problem Contact me Through Telegram 
 
-# Do U Face Any Problem Contact me Through Telegram Or Whatsapp
-
-[![Whatsapp](https://img.shields.io/badge/Whatsapp%20Me-informational)](+12565003534)
-
-
-<a href="https://t.me/joinchat/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/OWNER%20ME-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/joinchat/Legend_Userbot"><img src="https://img.shields.io/badge/Legend%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://t.me/joinchat/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
