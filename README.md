@@ -5,11 +5,7 @@
 [![LEGENDBOT](https://telegra.ph/file/fb2860bd9972e2e0be1cc.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
 
-<p align="center">
-<a href="https://app.codacy.com/gh/LEGEND-OS/LEGENDBOT?utm_source=github.com&utm_medium=referral&utm_content=LEGEND-OS/LEGENDBOT&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
-<img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/LEGEND-OS/LEGENDBOT" /> </a>
-</p>
+
 <p align="center">
 <a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
 <a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/LEGEND-OS/LEGENDBOT" /> </a>
