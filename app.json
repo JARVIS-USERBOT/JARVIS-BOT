@@ -1,5 +1,5 @@
 {
-  "name": "𝔏𝔢𝔤𝔢𝔫𝔡𝔅𝔬𝔱",
+  "name": "𝕴tß 𝕷êgëñd𝕭øt 🇮🇳",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ ℓєgєи∂. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/9144a914bce520f5bdf74.jpg",
     "keywords": [
@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "ℓεɠεɳ∂ɓσƭ",
+      "value": "𝕴tß 𝕷êgëñd 🇮🇳",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "ℓεɠεɳ∂ɓσƭ ιѕ αℓινє",
+      "value": "𝕷êgëñd𝕭øt ιѕ αℓινє 🇮🇳",
       "required": false
     },
     "AWAKE_PIC": {
@@ -39,17 +39,17 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
-      "value": "https://telegra.ph/file/6749af524b4658e5c2b23.jpg",
+      "value": "https://telegra.ph/file/fbbef13c1a2154fd2c0b0.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "ι αм ℓεɠεɳ∂.ϐϲοz ι αм υѕєя οƒ ℓεɠεɳ∂ɓσƭ",
+      "value": "ι αм ℓєgєи∂ ϐєϲαυѕє ι αм υѕєя οƒ 𝕷êgëñd𝕭øt",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/73800882b4e1723c2abd1.jpg",
+      "value": "",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
