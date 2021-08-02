@@ -9,7 +9,6 @@
 <a href="https://app.codacy.com/gh/LEGEND-OS/LEGENDBOT?utm_source=github.com&utm_medium=referral&utm_content=LEGEND-OS/LEGENDBOT&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
 <img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
 <a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/LEGEND-OS/LEGENDBOT" /> </a>
-<a href="http://hits.dwyl.com/LEGEND-OS/LEGENDBOT" alt="HitCount"> <img src="http://hits.dwyl.com/LEGEND-OS/LEGENDBOT.svg" /> </a>
 </p>
 <p align="center">
 <a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
