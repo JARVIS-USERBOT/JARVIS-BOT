@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
   "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/LEGENDUSERBOT",
+  "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
