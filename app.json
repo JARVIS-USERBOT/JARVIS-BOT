@@ -32,6 +32,11 @@
       "value": "𝕷êgëñd𝕭øt ιѕ αℓινє 🇮🇳",
       "required": false
     },
+    "MY_GROUP": {
+      "description": "Set Ur Group Username",
+      "value": "@Legend_Userbot",
+      "required": false
+    },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
       "value": "https://telegra.ph/file/8249d3fa8b6c38971dfd6.jpg",
@@ -150,7 +155,7 @@
       "required": false
     },
     "TG_BOT_USER_NAME_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot.without '@'",
+      "description": "Needed for inline buttons maker. Make a bot at @BotFather and copy the username of your bot.",
       "value": ""
     },
     "OPEN_WEATHER_MAP_APPID": {
