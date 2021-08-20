@@ -27,22 +27,22 @@ _get_repolink () {
 _set_bot () {
     local zippath
     zippath="LEGENDBOT.zip"
-    echo "  Downloading source code ..."
+    echo "  Downloading LegendBot V2.O Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
     LEGENDPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  Cleaning ..."
+    echo "  LegendBot V2.O Cleaning.."
     rm -rf "$zippath"
     sleep 5
     cd $LEGENDPATH
-    echo "    ѕταяτιиg ѕмοοτнєѕτ ℓєgєи∂ϐοτ    "
+    echo "    ⚜️ѕταяτιиg ѕмοοτнєѕτ 𝕷𝐞̂𝐠𝐞́𝐧̃𝐝𝕭ø𝖙 V2.O⚜️     "
     echo "
     LEGENDBOT
     "
 
-    python3 ../setup/updater.py ../requirements.txt requirements.txt
+    python3 ../superspeedo/superupdater.py ../legendrequirements.txt legendrequirements.txt
     python3 -m userbot
 }
 
