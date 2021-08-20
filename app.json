@@ -114,6 +114,10 @@
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
       "value": ""
     },
+    "OWNER_ID": {
+      "description": "Go to @missrose_bot & type /id. Copy it and Paste Here",
+      "value": ""
+    },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "Create a private group and  add @Missrose_bot then type /id add that value here for save messages",
       "value": ""
