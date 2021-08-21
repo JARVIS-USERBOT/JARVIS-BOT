@@ -81,21 +81,6 @@
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
       "value": ""
     },
-    "REM_BG_API_KEY": {
-      "description": "Required for Removing image background. Get your api key from https://www.remove.bg/",
-      "value": "",
-      "required": false
-    },
-    "OCR_SPACE_API_KEY": {
-      "description": "Register an account on ocr.space to get this value(API key)....",
-      "value": "",
-      "required": false
-    },
-    "LYDIA_API_KEY": {
-      "description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
-      "value": "",
-      "required": false
-    },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
       "value": "",
@@ -163,10 +148,6 @@
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and copy the username of your bot.",
       "value": ""
     },
-    "OPEN_WEATHER_MAP_APPID": {
-      "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
-      "required": false
-    },
     "NO_OF_BUTTONS": {
       "description": " Set The Amount Of Buttons Displayed In legend Command default 8",
       "value": "7",
@@ -180,11 +161,6 @@
     "EMOJI_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
       "value": "⚜️",
-      "required": false
-    },
-    "TZ": {
-      "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Kolkata",
       "required": false
     },
     "PM_DATA": {
