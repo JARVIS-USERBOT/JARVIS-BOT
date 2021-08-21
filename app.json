@@ -1,5 +1,5 @@
 {
-  "name": "𝕴tß 𝕷êgëñd𝕭øt 🇮🇳",
+  "name": "✞︎t͛ẞ̸ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ ℓєgєи∂. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/9144a914bce520f5bdf74.jpg",
     "keywords": [
@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "𝕴tß 𝕷êgëñd 🇮🇳",
+      "value": "✞︎t͛ẞ̸ 𝖑𝖊ɠêɳ̃d 🇮🇳",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "𝕷êgëñd𝕭øt ιѕ αℓινє 🇮🇳",
+      "value": "𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳ιѕ αℓινє 🇮🇳",
       "required": false
     },
     "MY_GROUP": {
