@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "userbot"
+          find: "legendrequirements"
 
-          replace: "superos"
+          replace: "requirements"
 
       - name: Create Pull Request
 
