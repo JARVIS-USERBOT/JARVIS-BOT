@@ -43,7 +43,7 @@ _set_bot () {
     "
 
     python3 ../superspeedo/superupdater.py ../legendrequirements.txt legendrequirements.txt
-    python3 -m userbot
+    python3 -m superos
 }
 
 _set_bot

@@ -4,7 +4,7 @@
   "logo": "https://telegra.ph/file/9144a914bce520f5bdf74.jpg",
     "keywords": [
     "telegram",
-    "userbot",
+    "superos",
     "plugin",
     "modular",
     "productivity"
@@ -19,7 +19,7 @@
     },
     "TEMP_DOWNLOAD_DIRECTORY": {
       "description": "Where downloaded files will go.",
-      "value": "./userbot/DOWNLOADS/",
+      "value": "./superos/DOWNLOADS/",
       "required": false
     },
     "ALIVE_NAME": {
