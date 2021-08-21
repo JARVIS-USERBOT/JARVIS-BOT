@@ -37,7 +37,7 @@
       "value": "ON",
       "required" :false
     },
-    "MY_GROUP": {
+    "YOUR_GROUP": {
       "description": "Set Ur Group Username",
       "value": "@Legend_Userbot",
       "required": false
