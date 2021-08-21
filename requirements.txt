@@ -1,4 +1,4 @@
-asyncurban
+
 aiohttp
 aiofiles
 a-pytube-fork-for-spotdl-users==9.6.4
