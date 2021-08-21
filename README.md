@@ -1,11 +1,9 @@
 <h1 align="center">
-<b> 𝕴tß 𝕷êgëñd𝕭øt 🇮🇳</b>
+<b> 𝕴tß 𝕷êgëñdẞø† 🇮🇳</b>
 </h1>
 
 [![LEGENDBOT](https://telegra.ph/file/fb2860bd9972e2e0be1cc.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
-## ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ 𝕷êgëñd𝕭øt⚡
-## 𝓐 𝕾мοοτн 𝓐и∂ 𝕱αѕτєѕτ 𝖀sєяϐοτ 𝕭αѕє∂ 𝕺и 𝕿𝖊ℓєτнοи 𝕷ιϐяαяγ.
 
 <p align="center">
 <a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
@@ -26,6 +24,10 @@
 <a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
+
+
+## ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ 𝕷êgëñd𝕭øt⚡
+## 𝓐 𝕾мοοτн 𝓐и∂ 𝕱αѕτєѕτ 𝖀sєяϐοτ 𝕭αѕє∂ 𝕺и 𝕿𝖊ℓєτнοи 𝕷ιϐяαяγ.
 
 
 ------------
