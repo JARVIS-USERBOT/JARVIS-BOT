@@ -32,6 +32,10 @@
       "value": "𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳ιѕ αℓινє 🇮🇳",
       "required": false
     },
+    "ABUSE": {
+      "description": "ON",
+      "value": "ON",
+      "required" :false
     "MY_GROUP": {
       "description": "Set Ur Group Username",
       "value": "@Legend_Userbot",
