@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> †tß Lêɠêɳ̃dẞø†</b>
+<b> ✞︎tß Lêɠêɳ̃dẞø†</b>
 </h1>
 
 [![LEGENDBOT]()](https://github.com/LEGEND-OS/LEGENDUSERBOT)
