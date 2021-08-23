@@ -42,20 +42,25 @@
       "value": "@Legend_Userbot",
       "required": false
     },
+    "BOYS OR GIRLS": {
+      "description": "Set If U are Boys Or Girls",
+      "value": "",
+      "required": true
+    },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
       "value": "https://telegra.ph/file/8249d3fa8b6c38971dfd6.jpg",
-      "required": false
+      "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
       "value": "https://telegra.ph/file/c84467e9ef71c0c2d65cf.jpg",
-      "required": false
+      "required": true
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
       "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ 𝖑𝖊ɠêɳ̃dẞø✞︎ ",
-      "required": false
+      "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
