@@ -42,7 +42,7 @@
       "value": "@Legend_Userbot",
       "required": false
     },
-    "BOYS OR GIRLS": {
+    "BOYS_OR_GIRLS": {
       "description": "Set If U are Boys Or Girls",
       "value": "BOYS",
       "required": false
