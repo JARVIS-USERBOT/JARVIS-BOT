@@ -44,8 +44,8 @@
     },
     "BOYS OR GIRLS": {
       "description": "Set If U are Boys Or Girls",
-      "value": "",
-      "required": true
+      "value": "BOYS",
+      "required": false
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
@@ -55,7 +55,7 @@
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
       "value": "https://telegra.ph/file/c84467e9ef71c0c2d65cf.jpg",
-      "required": true
+      "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
