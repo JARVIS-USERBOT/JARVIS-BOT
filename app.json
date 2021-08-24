@@ -42,9 +42,9 @@
       "value": "@Legend_Userbot",
       "required": false
     },
-    "BOYS_OR_GIRLS": {
+    "BOY_OR_GIRL": {
       "description": "Set If U are Boys Or Girls",
-      "value": "BOYS",
+      "value": "BOY",
       "required": false
     },
     "AWAKE_PIC": {
@@ -163,10 +163,15 @@
       "value": "2",
       "required": true
     },
-    "EMOJI_IN_HELP": {
+    "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
       "value": "",
       "required": true
+    },
+    "EMOJI_IN_HELP2": {
+      "description": "Set The emojies You Want to Add In Help Command!!",
+      "value": "",
+      "required": false
     },
     "PM_DATA": {
       "description": "Type DISABLE if you want to disable pm protection... ",
