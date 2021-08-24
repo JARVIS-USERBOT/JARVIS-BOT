@@ -43,7 +43,7 @@
       "required": false
     },
     "BOY_OR_GIRL": {
-      "description": "Set If U are Boys Or Girls",
+      "description": "Set If U are Boy Or Girl",
       "value": "BOY",
       "required": false
     },
