@@ -1,5 +1,5 @@
 {
-  "name": "✞︎t͛ẞ̸ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳",
+  "name": "Îtß Lêɠêɳ̃dẞø† 🇮🇳",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ ℓєgєи∂. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/cfc1ba8da5fd7ab02fa7d.jpg",
     "keywords": [
@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "✞︎t͛ẞ̸ 𝖑𝖊ɠêɳ̃d 🇮🇳",
+      "value": "✞︎tß Lêɠêɳ̃d 🇮🇳",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "𝖑𝖊ɠêɳ̃dẞø✞︎ 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
+      "value": "Lêɠêɳ̃dẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
       "required": false
     },
     "ABUSE": {
@@ -40,6 +40,11 @@
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
       "value": "@Legend_Userbot",
+      "required": false
+    },
+    "YOUR_CHANNEL": {
+      "description": "Set Ur Group Username",
+      "value": "@Its_LegendBot",
       "required": false
     },
     "BOY_OR_GIRL": {
