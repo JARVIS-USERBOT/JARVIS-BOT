@@ -84,7 +84,8 @@
     },
     "LOGGER_ID": {
       "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
-      "value": ""
+      "value": "",
+      "required": true
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
