@@ -82,7 +82,7 @@
       "value": "5",
       "required": true
     },
-    ""LOGGER_ID": {
+    "LOGGER_ID": {
       "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
       "value": ""
     },
