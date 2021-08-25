@@ -82,10 +82,9 @@
       "value": "5",
       "required": true
     },
-    "PM_PERMIT_GROUP_ID": {
-      "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "",
-      "required": true
+    ""LOGGER_ID": {
+      "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
+      "value": ""
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
