@@ -55,7 +55,12 @@
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
       "value": "https://telegra.ph/file/8249d3fa8b6c38971dfd6.jpg",
-      "required": true
+      "required": false
+    },
+    "OP_PIC": {
+      "description": "Put here any telegraph media link for OP pic in .op command.",
+      "value": "https://telegra.ph/file/8249d3fa8b6c38971dfd6.jpg",
+      "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
