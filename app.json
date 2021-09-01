@@ -19,7 +19,7 @@
     },
     "TMP_DOWNLOAD_DIRECTORY": {
       "description": "Where downloaded files will go.",
-      "value": ".userbot/DOWNLOADS/",
+      "value": "./userbot/DOWNLOADS/",
       "required": false
     },
     "ALIVE_NAME": {
