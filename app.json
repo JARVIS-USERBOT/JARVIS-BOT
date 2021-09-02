@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "✞︎tß Lêɠêɳ̃d 🇮🇳",
+      "value": "✞︎tß Lêɠêɳ̃dßøy 🇮🇳",
       "required": false
     },
     "ALIVE_MSG": {
@@ -33,8 +33,8 @@
       "required": false
     },
     "ABUSE": {
-      "description": "ON",
-      "value": "ON",
+      "description": "ON or OFF",
+      "value": "OFF",
       "required" :false
     },
     "YOUR_GROUP": {
@@ -55,12 +55,12 @@
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
       "value": "https://telegra.ph/file/8249d3fa8b6c38971dfd6.jpg",
-      "required": false
+      "required": true
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
       "value": "https://telegra.ph/file/8249d3fa8b6c38971dfd6.jpg",
-      "required": false
+      "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
@@ -176,7 +176,7 @@
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
       "value": "",
-      "required": true
+      "required": false
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
