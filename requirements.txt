@@ -40,7 +40,6 @@ emoji
 fonttools
 faker
 glitch_this
-gtts
 gTTS_token>=1.1.3
 gTTS>=2.0.1
 gitpython
