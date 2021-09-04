@@ -105,7 +105,6 @@ selenium
 speedtest-cli
 spotify_token
 spotdl
-sqlalchemy
 sqlalchemy==1.3.23
 telegraph
 twitter_scraper
