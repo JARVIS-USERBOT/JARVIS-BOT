@@ -2,7 +2,7 @@ from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
 print("")
-print("""Welcome To LEGENDBOT String Session\nGenerator By @LEGENDOwner\n\n""")
+print("""Welcome To LEGENDBOT String Session\nGenerator By @Legend_Mr_Hacker\n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
 API_KEY = input("API_ID:  ")
