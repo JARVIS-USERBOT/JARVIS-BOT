@@ -36,7 +36,7 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $LEGENDPATH
-    echo "    ⚜️ѕταяτιиg ѕмοοτнєѕτ 𝕷𝐞̂𝐠𝐞́𝐧̃𝐝𝕭ø𝖙 V2.O⚜️     "
+    echo "    ⚜️Starting Lêɠêɳ̃dẞø†⚜️     "
     echo "
     LEGENDBOT
     "
