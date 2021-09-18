@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "✞︎tß Lêɠêɳ̃dßøy 🇮🇳",
+      "value": "†hê~Lêɠêɳ̃dẞøY 🇮🇳",
       "required": false
     },
     "ALIVE_MSG": {
@@ -97,7 +97,7 @@
       "value": ""
     },
     "SUDO_USERS": {
-      "description": "Enter your friends user id to to give him bot sudo access",
+      "description": "Enter your friends user id to to give him bot full access",
       "value": "",
       "required": false
     },
