@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> ✞︎tß Lêɠêɳ̃dẞø†</b>
+<b> 『†hê Lêɠêɳ̃dẞø†』 </b>
 </h1>
 
 [![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
@@ -27,7 +27,7 @@
 
 
 ## ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ 𝖑𝖊ɠêɳ̃dẞø✞︎⚡
-## 𝓐 𝕾мοοτн 𝓐и∂ 𝕱αѕτєѕτ 𝖀sєяϐοτ 𝕭αѕє∂ 𝕺и 𝕿𝖊ℓєτнοи 𝕷ιϐяαяγ.
+## 𝓐 𝕾мοοτн 𝓐и∂ 𝕱αѕτєѕτ 𝖀sєяϐοt.
 
 
 ------------
