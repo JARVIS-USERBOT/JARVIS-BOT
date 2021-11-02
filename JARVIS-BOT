@@ -1,0 +1,47 @@
+
+
+_get_repolink () {
+    local regex
+    regex='(https?)://github.com/.+/.+'
+    if [[ $JARVIS_REPO == "JARVIS-BOT" ]]
+    then
+        echo "" | base64 -d
+    elif [[ $JARVIS_REPO == "JARVIS-BOT" ]]
+    then
+        echo "" | base64 -d
+    elif [[ $JARVIS_REPO =~ $regex ]]
+    then
+        if [[ $JARVIS_REPO_BRANCH ]]
+        then
+            echo "${JARVIS_REPO}/archive/${JARVIS_REPO_BRANCH}.zip"
+        else
+            echo "${JARVIS_REPO}/archive/master.zip"
+        fi
+    else
+        echo "" | base64 -d
+    fi
+}
+
+
+_setting_bot () {
+    local zippath
+    zippath="master.zip"
+    echo "  DOWNLOADING JARVIS"
+    wget -q $(_get_repolink) -O "$zippath"
+    echo "  INSTALLING JARVIS"
+    LJARPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    unzip -qq "$zippath"
+    echo "Done"
+    echo " JARVIS 1.0 STARTING"
+    rm -rf "$zippath"
+    sleep 5
+    cd $JARPATH
+    echo "    ~JARVIS-BOT ONLINE~    "
+    echo "
+    JARVIS-MAN 1.0"
+
+    python3 ../setup/updater.py ../requirements.txt requirements.txt
+    python3 -m userbot
+}
+
+_setting_bot
