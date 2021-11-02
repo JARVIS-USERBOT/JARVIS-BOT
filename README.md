@@ -71,10 +71,6 @@
 ------------
 # Do U Face Any Problem Contact me Through Telegram 
 
-<a href="https://t.me/Jarvis_Support_Official"><img src="https://img.shields.io/badge/Legend%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
-
-<a href="https://t.me/Its_Py"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
 
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Its_Py)
 
