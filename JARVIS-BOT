@@ -29,7 +29,7 @@ _setting_bot () {
     echo "  DOWNLOADING JARVIS"
     wget -q $(_get_repolink) -O "$zippath"
     echo "  INSTALLING JARVIS"
-    LJARPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    JARPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo " JARVIS 1.0 STARTING"
