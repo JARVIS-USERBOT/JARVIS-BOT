@@ -5,10 +5,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $JARVIS_REPO == "JARVIS-BOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0pBUlZJUy1VU0VSQk9UL0pBUlZJUy1EQVRBLUJBU0U=" | base64 -d
     elif [[ $JARVIS_REPO == "JARVIS-BOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0pBUlZJUy1VU0VSQk9UL0pBUlZJUy1EQVRBLUJBU0U=" | base64 -d
     elif [[ $JARVIS_REPO =~ $regex ]]
     then
         if [[ $JARVIS_REPO_BRANCH ]]
@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${JARVIS_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0pBUlZJUy1VU0VSQk9UL0pBUlZJUy1EQVRBLUJBU0U=" | base64 -d
     fi
 }
 
