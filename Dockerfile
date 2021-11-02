@@ -1,4 +1,3 @@
-FROM teamlegend/legendbot:latest
 
 RUN git clone https://github.com/JARVIS-USERBOT/JARVIS-BOT.git /root/userbot
 
