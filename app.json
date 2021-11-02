@@ -1,6 +1,6 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ †hê~Lêɠêɳ̃dẞøY Made with Love And By Python Language With Hardwork... ❤ ",
+  "name": "JARVIS-BOT",
+  "description": "JARVIS MADE WITH PYTHON [THANK YOU LEGEND-OS]",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGENDS-OP/LEGENDBOT/",
-  "website": "https://github.com/LEGENDS-OP/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/JARVIS-USERBOT/JARVIS-BOT/",
+  "website": "https://github.com/JARVIS-USERBOT/JARVIS-BOT/",
+  "success_url": "https://t.me/",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,13 +23,13 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "†hê~Lêɠêɳ̃dẞøY 🇮🇳",
+      "description": "Fill your Full name. By default it is Tony Stark User",
+      "value": "Tony Stark",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
+      "description": "Set Custom Alive Message When entering .alive Or .on_air  Command.",
+      "value": "Jarvis Online",
       "required": false
     },
     "ABUSE": {
@@ -39,12 +39,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@JarvisUserBot_Support",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Its_LegendBot",
+      "value": "@Jarvis_Support_Official",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -69,7 +69,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ 𝖑𝖊ɠêɳ̃dẞø✞︎ @Legend_Userbot",
+      "value": "MR, STARK SAVING WORLD JARVIS OVER HERE",
       "required": true
     },
     "PM_PIC": {
@@ -79,7 +79,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "HELLO! I AM JARVIS OVER HERE | MR. STARK NOT OVER HERE | DONT SPAM OR WILL BE BLOCKED",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -119,8 +119,8 @@
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
       "value": ""
     }, 
-    "LEGEND_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
+    "JARVIS_STRING": {
+      "description": "Get this value by running [TO ENTER]",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -168,7 +168,7 @@
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "💫",
+      "value": "⚜",
       "required": false
     },
     "PM_DATA": {
