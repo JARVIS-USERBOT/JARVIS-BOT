@@ -17,7 +17,7 @@ _get_repolink () {
         else
             echo "${JARVIS_REPO}/archive/master.zip"
         fi
-    else
+        else
         echo "aHR0cHM6Ly9naXRodWIuY29tL0pBUlZJUy1VU0VSQk9UL0pBUlZJUy1EQVRBLUJBU0UvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     fi
 }
