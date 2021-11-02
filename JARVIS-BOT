@@ -3,19 +3,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $LEGEND_REPO == "LEGENDBOT" ]]
+    if [[ $JARVIS_REPO == "JARVIS-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $LEGEND_REPO == "LEGENDBOT" ]]
+    elif [[ $JARVIS_REPO == "JARVIS-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $LEGEND_REPO =~ $regex ]]
+    elif [[ $JARVIS_REPO =~ $regex ]]
     then
-        if [[ $LEGEND_REPO_BRANCH ]]
+        if [[ $JARVIS_REPO_BRANCH ]]
         then
-            echo "${LEGEND_REPO}/archive/${LEGEND_REPO_BRANCH}.zip"
+            echo "${JARVIS_REPO}/archive/${JARVIS_REPO_BRANCH}.zip"
         else
-            echo "${LEGEND_REPO}/archive/master.zip"
+            echo "${JARVIS_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
@@ -25,20 +25,20 @@ _get_repolink () {
 
 _set_bot () {
     local zippath
-    zippath="LEGENDBOT.zip"
-    echo "  Downloading LegendBot V2.O Source Code..."
+    zippath="JARVIS-BOT.zip"
+    echo "DOWNLOADING JARVIS SOURCE CODE...."
     wget -q $(_get_repolink) -O "$zippath"
-    echo "  Unpacking Data ..."
-    LEGENDPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    echo "READING DATA"
+    JARVISPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  LegendBot V2.O Cleaning.."
+    echo "JARVIS-BOT 1.0"
     rm -rf "$zippath"
     sleep 5
-    cd $LEGENDPATH
-    echo "    ⚜️Starting Lêɠêɳ̃dẞø†⚜️     "
+    cd $JARVISPATH
+    echo "~STARTING JARVIS-BOT~"
     echo "
-    LEGENDBOT
+    JARVIS COMING ONLINE
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
