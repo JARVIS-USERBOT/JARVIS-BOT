@@ -1,5 +1,5 @@
 
-RUN git clone https://github.com/JARVIS-USERBOT/JARVIS-BOT.git /root/userbot
+RUN git clone https://github.com/JARVIS-USERBOT/JARVIS-DATA-BASE.git /root/userbot
 
 #working directory 
 WORKDIR /root/userbot
