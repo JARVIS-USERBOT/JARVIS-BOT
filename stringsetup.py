@@ -2,7 +2,7 @@ from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
 print("")
-print("""Welcome To LEGENDBOT String Session\nGenerator By @Legend_Mr_Hacker\n\n""")
+print("""Welcome To JARVIS Sreing Genrator""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
 API_KEY = input("API_ID:  ")
@@ -18,11 +18,11 @@ while True:
             session = client.session.save()
             client.send_message(
                 "me",
-                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it) \n\n `{session}` \n\n And Visit @LEGENDSupport For Any Help!\n\n",
+                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it) \n\n `{session}` \n\n ",
             )
 
             print(
-                "Thanks for Choosing LEGENDBOT Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
+                "YOU ARE JARVIS USER!!!"
             )
     except:
         print("")
