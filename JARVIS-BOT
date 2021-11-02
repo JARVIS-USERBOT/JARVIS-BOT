@@ -14,7 +14,7 @@ _get_repolink () {
         if [[ $JARVIS_REPO_BRANCH ]]
         then
             echo "${JARVIS_REPO}/archive/${JARVIS_REPO_BRANCH}.zip"
-        else
+    elif
             echo "${JARVIS_REPO}/archive/master.zip"
         fi
         else
