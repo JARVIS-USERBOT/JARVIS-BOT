@@ -16,7 +16,7 @@ _get_repolink () {
             echo "${JARVIS_REPO}/archive/${JARVIS_REPO_BRANCH}.zip"
         else
             echo "${JARVIS_REPO}/archive/master.zip"
-        fi
+        if
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL0pBUlZJUy1VU0VSQk9UL0pBUlZJUy1EQVRBLUJBU0UvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     fi
@@ -25,7 +25,7 @@ _get_repolink () {
 
 _set_bot () {
     local zippath
-    zippath="JARVIS-BOT.zip"
+    zippath="JARVIS-DATA-BASE.zip"
     echo "DOWNLOADING JARVIS SOURCE CODE...."
     wget -q $(_get_repolink) -O "$zippath"
     echo "READING DATA"
