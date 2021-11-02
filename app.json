@@ -1,7 +1,7 @@
 {
-  "name": "Îtß Lêɠêɳ̃dẞø† 🇮🇳",
+  "name": "Lêɠêɳ̃dẞø†",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ †hê~Lêɠêɳ̃dẞøY Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/cfc1ba8da5fd7ab02fa7d.jpg",
+  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/LEGENDS-OP/LEGENDBOT/",
+  "website": "https://github.com/LEGENDS-OP/LEGENDBOT/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
@@ -54,17 +54,17 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "https://telegra.ph/file/8249d3fa8b6c38971dfd6.jpg",
-      "required": true
+      "value": "",
+      "required": false
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "https://telegra.ph/file/946f21dd72cdbe632feee.jpg",
-      "required": true
+      "value": "",
+      "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
-      "value": "https://telegra.ph/file/c84467e9ef71c0c2d65cf.jpg",
+      "value": "",
       "required": false
     },
     "BIO_MSG": {
@@ -74,8 +74,8 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/281dc92f18508c52489b6.jpg",
-      "required": true
+      "value": "",
+      "required": false
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
@@ -118,18 +118,6 @@
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
       "value": ""
-    },
-    "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "Create a private group and  add @Missrose_bot then type /id add that value here for save messages",
-      "value": ""
-    },
-    "PRIVATE_GROUP_ID": {
-      "description": "Create a private group add @Missrose_bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": ""
-    },
-    "PM_LOGGR_BOT_API_ID": {
-       "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
-       "value": ""
     }, 
     "LEGEND_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
@@ -186,7 +174,7 @@
     "PM_DATA": {
       "description": "Type DISABLE if you want to disable pm protection... ",
       "value": "ENABLE",
-      "required": false 
+      "required": true
     }
   },
   "addons": [
