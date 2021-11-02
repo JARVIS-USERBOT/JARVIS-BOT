@@ -2,7 +2,7 @@
 <b> JARVIS-USERBOT </b>
 </h1>
 
-[![JARVIS-BOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/JARVIS-USERBOT/JARVIS-DATA-BASE)
+[![JARVIS-BOT](https://te.legra.ph/file/a9d1ce0a7de295ec40019.jpg)](https://github.com/JARVIS-USERBOT/JARVIS-DATA-BASE)
 
 
 <p align="center">
