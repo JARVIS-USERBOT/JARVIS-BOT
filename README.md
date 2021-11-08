@@ -105,8 +105,11 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 </details>
 
+
+    
 <details>
 
   <summary> • 💡 CREDITS 💞 • </summary>
-  
-• [LEGEND](https://github.com/LEGEND-OS
+<h2 align="center"> <a href="https://github.com/LEGEND-OS">☢️The_legendboy☢️</a></h2>
+
+</details>
